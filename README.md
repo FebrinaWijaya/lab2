@@ -1,4 +1,4 @@
-To compile:\n
+To compile:
 	make
 To execute:
 	./main
