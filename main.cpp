@@ -5,7 +5,8 @@ using namespace std;
 #include "class.h"
 int main()
 {
-	int K,Ra,Rb;
+	int K;
+	float Ra,Rb;
 	float Sa;
 	data game;
 	ifstream inFile("file.in",ios::in);
